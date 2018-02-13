@@ -1,0 +1,21 @@
+{
+  "name": "watsonworkspace-ngrok",
+  "version": "1.0.0",
+  "description": "An ngrok helper for local development of IBM Watson Workspace chatbots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "watsonwork",
+    "workspace",
+    "watson",
+    "ibm"
+  ],
+  "author": "van_staub@us.ibm.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "ngrok": "^2.2.26"
+  }
+}
